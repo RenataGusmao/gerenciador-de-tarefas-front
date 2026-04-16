@@ -1,4 +1,4 @@
-const API_URL = 'https://gerenciador-de-tarefas-qg6m.onrender.com';
+const API_URL = 'https://gerenciador-de-tarefas-1-w2dz.onrender.com/tasks';
 
 const form = document.getElementById('task-form');
 const taskId = document.getElementById('task-id');
